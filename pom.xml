@@ -41,7 +41,7 @@
         <druid.version>1.0.27</druid.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
         <commons-io.version>2.5</commons-io.version>
-        <fastjson.version>1.2.39</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <guava.version>21.0</guava.version>
         <jxl.version>2.4.2_4</jxl.version>
         <maven-compiler-pluLgin.version>3.6.0</maven-compiler-pluLgin.version>
